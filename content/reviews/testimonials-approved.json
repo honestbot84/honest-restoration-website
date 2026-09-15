@@ -1,0 +1,42 @@
+{
+  "source": "https://www.google.com/maps/place/Honest+Restoration/data=!4m7!3m6!1s0x8893e14e853be71f:0xd29a16231f49a411!8m2!3d30.5145654!4d-86.3339174!16s%2Fg%2F11hwdz5w8t",
+  "aggregate": "5.0 from 15 Google reviews",
+  "selected": [
+    {
+      "name": "Scott Kelley",
+      "stars": 5,
+      "quote": "TJ, of Honest Restoration, is amazing! He is honest, courteous, attentive, thorough, and knowledgeable! We had such a positive experience and highly recommend him. He dealt with cleaning and mold related to the central air conditioner, and we would not hesitate to utilize his services with any issues that may occur in the future!"
+    },
+    {
+      "name": "Meaghan Myers",
+      "stars": 5,
+      "quote": "There are not enough amazing things to say about TJ. Not only was he incredibly communicative through my restoration process (I live states away from my secondary residence), he went above and beyond to ensure my home was put back together and in perfect condition. TJ was transparent about pricing, thorough with his diagnosis and suggested path forward, and kept me in the loop through the entire process."
+    },
+    {
+      "name": "Tamara Graham",
+      "stars": 5,
+      "quote": "TJ from Honest Restoration went above and beyond our expectations. The services he provided for mold inspection and removal at our condo were thorough and very reasonably priced. We live out of state and TJ communicated with us through frequent emails with photos and video showing his progress. I highly recommend Honest Restoration!"
+    },
+    {
+      "name": "Collin Goodwin",
+      "stars": 5,
+      "quote": "Hands down the go-to for mold remediation. I value TJ's honesty, drive and work ethic. He knows mold better than anyone I have ever met. 10/10, highly recommend."
+    },
+    {
+      "name": "Julie Higgins",
+      "stars": 5,
+      "quote": "TJ Hilton, Honest Restorations and his Service Team exceeded our expectations. We would highly recommend them to anyone in need of Mold Remediation. On time service, every time!"
+    },
+    {
+      "name": "Mark Troncale",
+      "stars": 5,
+      "quote": "Incredible experience working with TJ and Honest Restoration! Extremely responsive and did above and beyond than what we needed without hesitation. Would absolutely recommend to anyone and use again!"
+    }
+  ],
+  "excluded": [
+    "Elevated Underground",
+    "parkavenueofwayzata",
+    "Arron S.",
+    "Craig M."
+  ]
+}
